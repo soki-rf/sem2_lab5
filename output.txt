@@ -1,0 +1,24 @@
+(vector):
+FIO: Ivanov Oleg Vital'evich, Group: IU8-24, Nomer zachetki: Z001V24, Grades: 3 4 4 4 , Averange ball: 3.75
+FIO: Sigma Legenda Starosta, Group: IU8-24, Nomer zachetki: Z002V24, Grades: 5 5 5 5 , Averange ball: 5
+FIO: Potapova Maria Arseevna, Group: IU8-24, Nomer zachetki: Z003V24, Grades: 5 4 4 5 , Averange ball: 4.5
+
+sort (vector):
+FIO: Ivanov Oleg Vital'evich, Group: IU8-24, Nomer zachetki: Z001V24, Grades: 3 4 4 4 , Averange ball: 3.75
+FIO: Potapova Maria Arseevna, Group: IU8-24, Nomer zachetki: Z003V24, Grades: 5 4 4 5 , Averange ball: 4.5
+FIO: Sigma Legenda Starosta, Group: IU8-24, Nomer zachetki: Z002V24, Grades: 5 5 5 5 , Averange ball: 5
+
+copy (deque):
+FIO: Ivanov Oleg Vital'evich, Group: IU8-24, Nomer zachetki: Z001V24, Grades: 3 4 4 4 , Averange ball: 3.75
+FIO: Potapova Maria Arseevna, Group: IU8-24, Nomer zachetki: Z003V24, Grades: 5 4 4 5 , Averange ball: 4.5
+FIO: Sigma Legenda Starosta, Group: IU8-24, Nomer zachetki: Z002V24, Grades: 5 5 5 5 , Averange ball: 5
+
+set (sorted by average grade):
+FIO: Ivanov Oleg Vital'evich, Group: IU8-24, Nomer zachetki: Z001V24, Grades: 3 4 4 4 , Averange ball: 3.75
+FIO: Potapova Maria Arseevna, Group: IU8-24, Nomer zachetki: Z003V24, Grades: 5 4 4 5 , Averange ball: 4.5
+FIO: Sigma Legenda Starosta, Group: IU8-24, Nomer zachetki: Z002V24, Grades: 5 5 5 5 , Averange ball: 5
+
+unordered_set (no particular order):
+FIO: Sigma Legenda Starosta, Group: IU8-24, Nomer zachetki: Z002V24, Grades: 5 5 5 5 , Averange ball: 5
+FIO: Potapova Maria Arseevna, Group: IU8-24, Nomer zachetki: Z003V24, Grades: 5 4 4 5 , Averange ball: 4.5
+FIO: Ivanov Oleg Vital'evich, Group: IU8-24, Nomer zachetki: Z001V24, Grades: 3 4 4 4 , Averange ball: 3.75
